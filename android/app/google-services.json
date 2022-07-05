@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38627499518",
+    "project_id": "del-mar-a-mi-mesa",
+    "storage_bucket": "del-mar-a-mi-mesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38627499518:android:4ec0a8d14df3577ff374af",
+        "android_client_info": {
+          "package_name": "com.delmaramisa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38627499518-vei7pls6r58givl28et7njbrt2jm1u4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBDQhspGNDHplf1bBSVFy-32ca0MSteg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38627499518-vei7pls6r58givl28et7njbrt2jm1u4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

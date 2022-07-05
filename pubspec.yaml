@@ -1,0 +1,63 @@
+name: flutter_new
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  carousel_slider:
+  google_maps_flutter:
+  font_awesome_flutter:
+  flutter_custom_clippers:
+  carousel_pro:
+  animate_icons:
+  geolocator:
+  geocoding:
+  flutter_wordpress:
+  http:
+  http_parser:
+  dio:
+  flutter_html:
+  intl:
+  geocoder:
+  smooth_page_indicator:
+  awesome_dialog:
+  autocomplete_textfield:
+  flutter_svg:
+  youtube_player_flutter: ^8.0.0
+  visibility_detector: ^0.2.0
+  provider:
+  custom_info_window:
+  firebase_messaging: ^11.2.0
+  firebase_core:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - assets/images/
+      - assets/
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/Montserrat-Light.ttf
+#          weight:300
+        - asset: assets/Montserrat-Regular.ttf
+#          weight:400
+        - asset: assets/Montserrat-Medium.ttf
+#          weight:500
+        - asset: assets/Montserrat-SemiBold.ttf
+#          weight:600
+        - asset: assets/Montserrat-Bold.ttf
+#          weight:700
